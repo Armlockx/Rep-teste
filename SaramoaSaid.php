@@ -1,3 +1,3 @@
 <?php
-echo "no great reproves.";
+echo "i will abandon.";
 ?>
